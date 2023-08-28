@@ -20,6 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = 'themes/Flex/'
 
+ARTICLE_ORDER_BY = 'attribute'
+PAGE_ORDER_BY = 'attribute'
 
 DEFAULT_PAGINATION = False
 
