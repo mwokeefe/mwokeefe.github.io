@@ -7,4 +7,6 @@ slug: about
 
 Testing pelican config. 
 
+Add another line to test.
+
 [my_sweet_photo]: {static}/images/lhc.jpg
