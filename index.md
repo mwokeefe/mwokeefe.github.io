@@ -1,3 +1,0 @@
-Hello!
-
-[README](README.md)
