@@ -26,7 +26,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 PATH = "content"
-PAGE_PATHS = ["tech"]
-ARTICLE_PATHS = ["tech"]
+PAGE_PATHS = ["pages"]
+ARTICLE_PATHS = ["pages/tech"]
 STATIC_PATHS = ["images"]
 USE_FOLDER_AS_CATEGORY = True
