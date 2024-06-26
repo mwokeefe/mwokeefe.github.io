@@ -27,9 +27,6 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
-
-ARTICLE_PATHS = [
-    "articles",
-]
-ARTICLE_URL = "articles/{slug}.html"
-ARTICLE_SAVE_AS = "articles/{slug}.html"
+PATH = "content"
+STATIC_PATHS = ["tech"]
+ARTICLE_PATHS = STATIC_PATHS
