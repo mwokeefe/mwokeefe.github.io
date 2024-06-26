@@ -6,8 +6,6 @@ AUTHOR = "mwokeefe"
 SITENAME = "Test"
 SITEURL = ""
 
-PATH = "content"
-
 TIMEZONE = "GMT"
 
 DEFAULT_LANG = "en"
@@ -30,3 +28,9 @@ DEFAULT_PAGINATION = False
 PATH = "content"
 STATIC_PATHS = ["tech"]
 ARTICLE_PATHS = STATIC_PATHS
+USE_FOLDER_AS_CATEGORY = True
+
+ARTICLE_URL = "{slug}/"
+ARTICLE_SAVE_AS = "{slug}/index.html"
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
