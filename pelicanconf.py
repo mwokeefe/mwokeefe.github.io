@@ -27,6 +27,6 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 PATH = "content"
 PAGE_PATHS = ["pages"]
-ARTICLE_PATHS = ["pages/tech"]
+ARTICLE_PATHS = ["tech"]
 STATIC_PATHS = ["images"]
 USE_FOLDER_AS_CATEGORY = True
