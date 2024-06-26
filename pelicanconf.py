@@ -30,3 +30,11 @@ PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = ["tech"]
 STATIC_PATHS = ["images"]
 USE_FOLDER_AS_CATEGORY = True
+
+# URL settings for articles
+ARTICLE_URL = "{slug}.html"
+ARTICLE_SAVE_AS = "{slug}.html"
+
+# URL settings for pages
+PAGE_URL = "pages/{slug}.html"
+PAGE_SAVE_AS = "pages/{slug}.html"
