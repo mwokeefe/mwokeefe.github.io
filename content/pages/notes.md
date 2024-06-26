@@ -4,4 +4,4 @@ attribute: 004
 slug: notes
 
 
-Just a collection of notes...ss
+Just a collection of notes...
