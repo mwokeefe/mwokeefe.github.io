@@ -13,10 +13,6 @@ the approach achieves 2–4% precision over short timescales and shows excellent
 This technique offers a reliable, independent cross-check for ATLAS luminosity monitoring.
 
 # 2025
-A method of [constraining the output length]({filename}../projects/cllm.md) of decoder-only LLMs by introducing a countdown-style positional encodings.
-[CLLM]()
-
-A simple fine-tuning method using countdown-style positional encodings (LDPE) lets decoder-only LLMs 
-
-
-generate outputs with exact token-level length — no hacks, no loss in quality.
+[LDPE]({filename}../projects/cllm.md) is a method of constraining the output length of decoder-only LLMs by introducing a countdown-style positional encoding.
+This is introduced as an additional sinusoidal embedding which can be finetuned alongside existing embeddings with a small QA dataset for any foundation model.
+Results show that this method is extremely effective and is a very low cost way to introduce strict length requirements for generated outputs.
