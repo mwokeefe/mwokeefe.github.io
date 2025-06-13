@@ -1,4 +1,4 @@
-title: Monitoring luminosity at the LHC using Z boson
+title: Monitoring luminosity at the LHC using the Z boson
 date: 23/02/2021
 
 # Introduction
