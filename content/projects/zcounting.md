@@ -1,6 +1,8 @@
 title: Monitoring luminosity at the LHC using the Z boson
 date: 23/02/2021
 
+:blue_book: [paper](https://cds.cern.ch/record/2752951/files/ATL-DAPR-PUB-2021-001.pdf)
+
 # Introduction
 When you’re smashing protons together at nearly the speed of light inside the Large Hadron Collider (LHC), keeping track of how often those collisions happen — and under what conditions — is absolutely critical. That’s where the concept of luminosity comes in.
 
@@ -35,5 +37,3 @@ What’s more, the results from Z → e⁺e⁻ and Z → μ⁺μ⁻ agree beauti
 # Final Thoughts
 Using physics itself to calibrate physics may sound meta, but it’s part of what makes experiments like ATLAS so powerful. The ability to use well-modeled processes like Z boson decays to monitor detector performance in real time adds a new layer of confidence to every analysis that follows.
 And as we head into higher luminosities and more complex data in Run 3 and beyond, having multiple, independent ways to validate our measurements isn’t just nice — it’s essential.
-
-If you would like to read more, the full details can be found in [this paper](https://cds.cern.ch/record/2752951/files/ATL-DAPR-PUB-2021-001.pdf).

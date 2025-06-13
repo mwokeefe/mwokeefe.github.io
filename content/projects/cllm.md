@@ -1,6 +1,8 @@
 title: Precise length control for large language models
 date: 05/06/2025
 
+:blue_book: [paper](https://www.sciencedirect.com/science/article/pii/S2949719125000196)
+
 # Introduction
 Controlling output length in large language models (LLMs) is a persistent challenge, especially in production systems where structured responses or consistent verbosity are essential. Standard prompting techniques and maximum token limits offer only coarse control, often resulting in outputs that are too short, too long, or unnaturally truncated.
 
