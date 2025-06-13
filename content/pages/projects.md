@@ -4,6 +4,7 @@ attribute: 002
 slug: projects
 
 A selection of projects that I have contributed to.
+Click the links to read the detailed blog posts.
 
 # 2021
 The [Z-counting method]({filename}../projects/zcounting.md) is a novel method for measuring instantaneous luminosity in proton–proton collisions using reconstructed Zll decays.
