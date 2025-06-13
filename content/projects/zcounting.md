@@ -2,7 +2,7 @@ title: Monitoring luminosity at the LHC using the Z boson
 date: 23/02/2021
 keywords: ATLAS
 
-:blue_book: [paper](https://cds.cern.ch/record/2752951/files/ATL-DAPR-PUB-2021-001.pdf)
+📘: [paper](https://cds.cern.ch/record/2752951/files/ATL-DAPR-PUB-2021-001.pdf)
 
 # Introduction
 When you’re smashing protons together at nearly the speed of light inside the Large Hadron Collider (LHC), keeping track of how often those collisions happen — and under what conditions — is absolutely critical. That’s where the concept of luminosity comes in.
