@@ -13,4 +13,10 @@ the approach achieves 2–4% precision over short timescales and shows excellent
 This technique offers a reliable, independent cross-check for ATLAS luminosity monitoring.
 
 # 2025
-[CLLM]({filename}../projects/cllm.md)
+A method of [constraining the output length]({filename}../projects/cllm.md) of decoder-only LLMs by introducing a countdown-style positional encodings.
+[CLLM]()
+
+A simple fine-tuning method using countdown-style positional encodings (LDPE) lets decoder-only LLMs 
+
+
+generate outputs with exact token-level length — no hacks, no loss in quality.
